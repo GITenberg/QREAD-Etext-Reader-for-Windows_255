@@ -1,0 +1,20 @@
+_repo: QREAD-Etext-Reader-for-Windows_255
+creator:
+  author:
+    agent_name: Scavezze, Dan
+    gutenberg_agent_id: '143'
+    url: http://www.gutenberg.org/2009/agents/143
+description: Program
+gutenberg_issued: '1995-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '255'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Electronic book readers'
+- !lcc 'Z'
+title: QREAD, Etext Reader for Windows
+url: http://www.gutenberg.org/ebooks/255
