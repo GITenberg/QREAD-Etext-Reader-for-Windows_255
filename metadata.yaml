@@ -1,11 +1,16 @@
 _repo: QREAD-Etext-Reader-for-Windows_255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scavezze, Dan
     gutenberg_agent_id: '143'
     url: http://www.gutenberg.org/2009/agents/143
 description: Program
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/255#QREAD-Etext-Reader-for-Windows
 gutenberg_issued: '1995-04-01'
 gutenberg_type: Text
 identifiers:
