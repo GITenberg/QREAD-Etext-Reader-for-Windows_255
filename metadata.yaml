@@ -1,5 +1,5 @@
 _repo: QREAD-Etext-Reader-for-Windows_255
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -22,5 +22,6 @@ rights_url: ''
 subjects:
 - !lcsh 'Electronic book readers'
 - !lcc 'Z'
+- GITenberg
 title: QREAD, Etext Reader for Windows
 url: http://www.gutenberg.org/ebooks/255
